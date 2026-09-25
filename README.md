@@ -10,7 +10,14 @@ Open `index.html` in a browser, or run VS Code Live Server. Upload the contents 
 
 ## Visual assets and intellectual honesty
 
-`assets/images/hero-garden.svg`, `garden-retreat.svg`, `garden-before.svg` and `garden-after.svg` are original locally hosted SVG illustrations. **No completed project, photo, transformation or staff portrait is claimed to be Mow N Go's work.** The comparison slider is explicitly labelled an illustration of possibilities, not actual before/after evidence. The idea section is also explicitly illustrative. Replace these with owner-provided licensed, genuine photographs before any real client launch; remove illustration disclaimers only after the final content is truthful.
+The hero and garden inspiration section use **three locally hosted Pexels reference photographs**, downloaded and optimized to WebP. They show design possibilities only and are **not Mow N Go projects**. The before/after comparison retains the original `garden-before.svg` and `garden-after.svg` concept illustrations; it is not a documented customer transformation. No completed project, photograph, transformation or staff portrait is claimed as Mow N Go's work. Replace reference imagery with owner-provided, approved project photographs before any real client launch.
+
+Reference image sources (Pexels License; please retain these credits for provenance):
+- `assets/images/garden-hero-reference.webp`: https://www.pexels.com/photo/residential-house-with-a-patio-in-the-backyard-17240696/
+- `assets/images/patio-reference.webp`: https://www.pexels.com/photo/patio-with-seats-and-potted-plants-14517007/
+- `assets/images/lawn-reference.webp`: https://www.pexels.com/photo/green-grass-in-the-garden-lawn-14399431/
+
+The standalone `garden-paving-reference.webp` is an additional optional image sourced from https://www.pexels.com/photo/sunny-garden-patio-with-stone-pathway-in-bahia-36394729/; it is not used as proof of work or in the comparison slider. The photo files are embedded in GitHub; the website does not hotlink an image service.
 
 Photography to request from the owner: 1 hero landscape photograph of an attractive completed UK garden; 1 legitimate pair of *the same project* before/after from comparable angles; at least 4 landscape photos of independently identifiable real projects; 1 genuine team/work photo if available. Ask for publishing permission. Save optimized WebP/AVIF/JPEG copies to `assets/images/` and update the local paths and truthful alt text in `index.html`.
 
